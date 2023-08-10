@@ -1,0 +1,54 @@
+@media screen and (max-width:768px){
+    .navBar ul{
+        display: flex;
+        justify-content: space-evenly;
+       
+        
+    }
+     .brank{
+        font-size: 20px;
+        margin-bottom: 10px;
+        
+       
+        
+    } 
+    
+      .groupage{
+        display: flex;
+        flex-direction: column;
+      }
+      .like{
+        font-size: 20px;
+      }
+      .section1{
+      height: 1500px;;
+      }
+      .section2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+     .etoile{
+        display: flex;
+      flex-direction: column;
+       
+     }
+     .Make{
+        text-align: center;
+        margin-left: 0px; 
+     }
+     .rond{
+        display: flex;
+        flex-direction: column;
+
+     }
+     .navBar ul{
+      display: flex;
+      flex-direction: column;
+     }
+     .home{
+      margin-bottom: 10px;
+     }
+    
+}

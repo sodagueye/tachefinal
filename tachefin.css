@@ -1,0 +1,177 @@
+.navBar ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    flex-wrap: wrap;
+
+}
+.home{
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+}
+.login{
+    display: flex; 
+    gap: 20px;
+    font-size: 18px; 
+}
+
+.navBar ul li{
+    list-style: none;
+}
+.navBar ul li a{
+    text-decoration: none;
+    color: white;
+  
+}
+.section1{
+    background-color: #252B42;
+    height: 900px;
+}
+.brank{
+    font-size: 30px;
+    font-weight: bold;
+}
+.us{
+    background-color: #23A6F0;
+   width: 70px;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.welcome{
+    text-align: center;
+    color: #23A6F0;
+    padding-top: 30px;
+}
+.like{
+    text-align: center;
+    color:white;
+    padding-top: 30px; 
+    font-size: 55px;
+    font-weight: bolder;
+}
+.just{
+    text-align: center;
+    color:white;  
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 30px;
+    
+
+   }
+  
+   .btn1{
+    background-color:#23A6F0 ;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+   }
+   .btn2{
+    width: 100px;
+    background-color: #252B42;
+    border: 1px solid #23A6F0;
+    padding: 10px;
+    border-radius: 5px;
+    color: #23A6F0;
+   }
+   .groupage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+   }
+   .section2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+   }
+   .bar{
+    width: 100px;
+    height: 10px;
+    background-color: red;
+    border-radius: 2px;
+   }
+   .hp{
+    display: block;
+   }
+   .more{
+    color: #23A6F0;
+    padding-top: 30px;
+   }
+   .Packages{
+    font-size: 30px;
+    font-weight: bold;
+   }
+   .Problems{
+    padding-top: 30px;
+   }
+   .Make{
+    margin-left: 130px; 
+    padding-top: 50px;
+   }
+   .etoile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   }
+   .rond{
+    display: flex;
+    justify-content: space-around;
+   }
+   .advice{
+    text-align: center;
+    padding-top: 40px;
+   }
+   .ajout{
+    /* padding-top: 30px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    height: 300px;
+   }
+   input{
+    background-color: rgb(228, 224, 224);
+    height: 32px;
+    width: 300px;
+    border-right: none;
+    border-bottom:1px solid gray ;
+    border-top:1px solid gray ;
+    border-left:1px solid gray ;
+    border-radius: 2px;
+    
+   }
+   .sub{
+    height: 36px;
+    width: 100px;
+    background-color: #23A6F0;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    
+   }
+
+   .footer{
+    background-color: #252B42;
+    height: 300px;
+   }
+   .groupFooter{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+   }
+   .Copyright{
+    height: 40px;
+   }
+   .copy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
