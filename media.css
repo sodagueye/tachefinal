@@ -50,5 +50,33 @@
      .home{
       margin-bottom: 10px;
      }
+    .groupFooter{
+    font-size: 12px; 
+   /* padding: 20px; */
+     } 
+     input{
+      width: 150px;
+
+     }
+     .trying{
+      font-size: 12px;
     
+
+     }
+     .famil{
+     width: 200px;
+     }
+     .Problems{
+      font-size: 12px;
+     }
+   .ndekki{
+     display: flex;
+     gap: 20px; 
+     flex-direction: column;
+     padding: 20px;
+      
+    }
+    .ndekki .resouss{
+      padding-bottom: 50px;
+    }
 }
