@@ -3,11 +3,13 @@
     justify-content: space-around;
     padding: 20px;
     flex-wrap: wrap;
+    align-items: center;
+    font-size: 15px;
 
 }
-/* body{
+ body{
     background-color: #23A6F0;
-} */
+} 
 .home{
     display: flex;
     gap: 20px;
@@ -85,9 +87,9 @@
    }
    .groupage{
     display: flex;
-    justify-content: center;
+    /* justify-content: center;
     align-items: center;
-    padding-top: 30px;
+    padding-top: 30px; */
    }
    .section2{
     display: flex;
