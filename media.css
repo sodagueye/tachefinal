@@ -86,4 +86,15 @@
       background-color: #252B42;
       height: 400px;
      }
+   .like .Packages{
+    font-size: 18px;
+   }
+   .just{
+    font-size: 12px;
+    padding: 15px;
+   }
+   .soda{
+    font-size: 12px;
+    padding: 20px;
+   }
 }
